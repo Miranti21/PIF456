@@ -14,7 +14,7 @@
     <ul class="nav navbar-nav">
       <li class="active"><a href="http://localhost/bootstrap/index2.php">Home</a></li>
 	  <li class="active"><a href="http://localhost/bootstrap/Modul4/studikasus">Modul 4=Studi Kasus</a></li>
-      <li class="active"><a href="http://localhost/bootstrap/Modul4/tugas">Modul 4=Tugas Praktikum</a></li>
+      <li class="active"><a href="http://localhost/bootstrap/Modul4/tugas/login.php">Modul 4=Tugas Praktikum</a></li>
 	  <li class="active"><a href="http://localhost/bootstrap/Modul5/studikasus.php">Modul 5=Studi Kasus</a></li>
 	  <li class="active"><a href="http://localhost/bootstrap/Modul5/tugas.php">Modul 5=Tugas Praktikum</a></li>
     </ul>    
